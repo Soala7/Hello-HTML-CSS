@@ -12,6 +12,16 @@ This repo will help you set up your environment and start creating beautiful web
 ## 🧰 What You’ll Need
 - **VS Code** (Text editor) → [Download Here](https://code.visualstudio.com/)
 - A web browser (e.g. Chrome, Firefox, Edge)
+-
+## 📚 Learn HTML & CSS
+
+🎓 **Free Course** → [HTML and CSS Tutorials (FreeCodeCamp on Class Central)](https://www.classcentral.com/classroom/freecodecamp-html-and-css-tutorials-56992)  
+
+This beginner-friendly course covers:
+- **HTML structure** – headings, paragraphs, links, images, and lists
+- **CSS styling** – colors, fonts, spacing, and alignment
+- **Layouts** – flexbox, grid, and positioning
+- **Responsive design** – making websites work on all devices
 
 ---
 
@@ -49,6 +59,9 @@ Inside `index.html`:
     <p>Welcome to HTML & CSS learning.</p>
 </body>
 </html>
+---
+
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
